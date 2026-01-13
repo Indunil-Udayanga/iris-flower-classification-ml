@@ -59,41 +59,7 @@ The Iris dataset contains **150 samples** with the following features:
 
 ---
 
-## 📁 Project Structure
 
-```
-iris-flower-classification-ml/
-│
-├── iris_classification.ipynb   # Main notebook
-├── README.md                   # Project documentation
-└── requirements.txt            # Required libraries (optional)
-```
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-
-   ```bash
-   git clone https://github.com/your-username/iris-flower-classification-ml.git
-   ```
-
-2. Navigate to the project folder
-
-   ```bash
-   cd iris-flower-classification-ml
-   ```
-
-3. Open Jupyter Notebook
-
-   ```bash
-   jupyter notebook
-   ```
-
-4. Run `iris_classification.ipynb`
-
----
 
 ## ✅ Model Evaluation
 
